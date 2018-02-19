@@ -1,0 +1,5 @@
+# Mariadb : Frequenty Asked Questions.
+
+How to migrate existing databases to new server ?
+
+

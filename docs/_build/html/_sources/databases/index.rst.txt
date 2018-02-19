@@ -1,0 +1,8 @@
+Databases
+=====================================
+
+.. toctree::
+   :maxdepth: 0
+
+   mariadb
+   redis

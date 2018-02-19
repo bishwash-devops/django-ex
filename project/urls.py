@@ -12,6 +12,7 @@ urlpatterns = [
     url(r'^$', index),
     url(r'^health$', health),
     url(r'^admin/', include(admin.site.urls)),
+    url(r'^docs/', include('docs.urls')),
 ]
 
 if settings.DEBUG:
